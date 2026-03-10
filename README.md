@@ -1,16 +1,68 @@
-# React + Vite
+# AI Chat App (ChatGPT-Style Interface)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern AI chat interface inspired by ChatGPT, built using **React, Vite, and Tailwind CSS**.
+This project focuses on creating a clean conversational UI where users can interact with an AI assistant.
 
-Currently, two official plugins are available:
+The goal of this project is to practice building real-world frontend applications and integrate AI APIs to create a fully functional chat experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* ChatGPT-style user interface
+* Sidebar for chat history
+* Responsive layout using Tailwind CSS
+* User prompt input box
+* Clean and modern UI
+* AI API integration (coming soon)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Tech Stack
+
+* React.js
+* Vite
+* Tailwind CSS
+* JavaScript (ES6+)
+* Git & GitHub
+
+---
+
+## 📂 Project Setup
+
+Clone the repository
+
+git clone https://github.com/itsmeanwar/ai-chat-app.git
+
+Navigate to the project folder
+
+cd ai-chat-app
+
+Install dependencies
+
+npm install
+
+Start the development server
+
+npm run dev
+
+---
+
+## 🎯 Future Improvements
+
+* AI API integration (OpenAI / Gemini)
+* Chat message components
+* Conversation history storage
+* Markdown support for AI responses
+* Code block formatting
+* UI improvements and animations
+
+---
+
+## 👨‍💻 Author
+
+Shaik Anwar Basha
+Frontend Developer (React.js)
+
+GitHub
+https://github.com/itsmeanwar
